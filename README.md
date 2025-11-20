@@ -15,7 +15,6 @@ Install
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121  # or cpu wheels
 pip install opencv-python numpy
 
-# Optional: ultralytics yolov5 via torch.hub (downloads on first run)
 # (No extra pip needed; torch.hub will fetch from ultralytics/yolov5 automatically.)
 
 Run
